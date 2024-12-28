@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.669333,
+theblu_segment000.ts
+#EXTINF:2.435767,
+theblu_segment001.ts
+#EXTINF:4.137467,
+theblu_segment002.ts
+#EXTINF:3.236567,
+theblu_segment003.ts
+#EXTINF:5.538867,
+theblu_segment004.ts
+#EXTINF:5.305300,
+theblu_segment005.ts
+#EXT-X-ENDLIST
