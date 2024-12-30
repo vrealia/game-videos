@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.170833,
+air-hockey_segment000.ts
+#EXTINF:4.170833,
+air-hockey_segment001.ts
+#EXTINF:4.170833,
+air-hockey_segment002.ts
+#EXTINF:1.584389,
+air-hockey_segment003.ts
+#EXT-X-ENDLIST
