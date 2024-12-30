@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.433333,
+minecraft-vr_segment000.ts
+#EXTINF:2.333333,
+minecraft-vr_segment001.ts
+#EXTINF:2.433333,
+minecraft-vr_segment002.ts
+#EXTINF:1.233333,
+minecraft-vr_segment003.ts
+#EXTINF:0.866667,
+minecraft-vr_segment004.ts
+#EXT-X-ENDLIST
